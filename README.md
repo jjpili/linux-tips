@@ -1,2 +1,2 @@
-# linux-tips-
-Tips for using and administration of Linux 
+# linux-tips
+Tips for using and administering a Linux system
